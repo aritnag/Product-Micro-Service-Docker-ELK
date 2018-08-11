@@ -9,7 +9,7 @@ import org.springframework.data.mongodb.repository.config.EnableMongoRepositorie
 
 @EnableMongoRepositories
 @SpringBootApplication(exclude = {ElasticsearchAutoConfiguration.class, ElasticsearchDataAutoConfiguration.class})
-//@EnableDiscoveryClient
+@EnableDiscoveryClient
 public class DatabaseProductServiceApplication {
 
 	public static void main(String[] args) {
