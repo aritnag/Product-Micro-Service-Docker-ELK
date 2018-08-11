@@ -12,4 +12,4 @@ services:
         syslog-format: "rfc3164"
         tag: "node-01"
     ports:
-      - '8000:8000'
+      - '8100:8100'
