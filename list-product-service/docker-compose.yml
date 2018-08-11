@@ -1,0 +1,15 @@
+version: '2'
+services:
+  node01:
+    image: aritranag20/list-product-service
+    restart: always
+    environment:
+      - TZ=America/Montreal
+    logging:
+      driver: syslog
+      options:
+        syslog-address: "tcp://34.195.62.202:5010"
+        syslog-format: "rfc3164"
+        tag: "node-01"
+    ports:
+      - '8000:8000'
