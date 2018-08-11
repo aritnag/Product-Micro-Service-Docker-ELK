@@ -48,12 +48,10 @@ public class ProductService {
 	}
 
 	public Object removeProduct(Product product,String db) {
-		RestTemplate restTemplate = new RestTemplate();
-		restTemplate.getMessageConverters().add(new MappingJackson2HttpMessageConverter());
 		HttpHeaders headers = new HttpHeaders();
 		headers.setContentType(MediaType.APPLICATION_JSON);
 		HttpEntity<String> entity = new HttpEntity<String>(gson.toJson(product), headers);
-		String answer = restTemplate.postForObject(env.getProperty("database.product.service.url")+db+"/deleteproduct", entity, String.class);
+		String answer = customrestTemplate.postForObject(env.getProperty("database.product.service.url")+db+"/deleteproduct", entity, String.class);
 		System.out.println(answer);
 		return this.getAllProducts(db);
 	}
