@@ -8,6 +8,9 @@ then
 fi
 
 #I am root
+echo "Inside  add-product-service"
+rm -rf Product-Micro-Service-Docker-ELK
+git clone https://github.com/aritnag/Product-Micro-Service-Docker-ELK.git
 git pull https://github.com/aritnag/Product-Micro-Service-Docker-ELK.git
 cd add-product-service
 docker build -t add-product-service .
