@@ -8,8 +8,11 @@ then
 fi
 
 #I am root
-git pull https://github.com/aritnag/Product-Micro-Service-Docker-ELK.git
-cd list-product-service
+echo "Inside remove-product-service"
+rm -rf Product-Micro-Service-Docker-ELK
+git clone https://github.com/aritnag/Product-Micro-Service-Docker-ELK.git
+
+cd Product-Micro-Service-Docker-ELK/list-product-service
 docker build -t remove-product-service .
 docker tag add-product-service aritranag20/remove-product-service
 docker push aritranag20/remove-product-service
