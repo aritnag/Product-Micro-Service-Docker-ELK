@@ -17,8 +17,6 @@ public class Product {
 	private String productName;
 	@Column(name="product_type")
 	private String productType;
-	@Column(name="product_desc")
-	private String productDescription;
 	private int port;
 	
 	/**
@@ -62,12 +60,6 @@ public class Product {
 	}
 	public void setId(String id) {
 		this.id = id;
-	}
-	public String getProductDescription() {
-		return productDescription;
-	}
-	public void setProductDescription(String productDescription) {
-		this.productDescription = productDescription;
 	}
 	
 	

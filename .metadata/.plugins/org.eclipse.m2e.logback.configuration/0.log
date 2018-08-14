@@ -122,3 +122,23 @@
 2018-08-14 18:18:19,408 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2018-08-14 18:18:19,412 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-08-14 18:18:19,414 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aritnag\Documents\Portal\Product-Micro-Service-Docker-ELK\remove-product-service\src\test\resources
+2018-08-14 21:18:08,890 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-14 21:18:08,895 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-14 21:18:08,903 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-14 21:18:08,910 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-14 21:18:08,910 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aritnag\Documents\Portal\Product-Micro-Service-Docker-ELK\database-product-service\src\test\resources
+2018-08-14 21:18:26,276 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-14 21:18:26,278 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-14 21:18:26,283 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-14 21:18:26,285 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-14 21:18:26,286 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aritnag\Documents\Portal\Product-Micro-Service-Docker-ELK\database-product-service\src\test\resources
+2018-08-14 21:18:45,826 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-14 21:18:45,828 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-14 21:18:45,834 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-14 21:18:45,838 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-14 21:18:45,839 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aritnag\Documents\Portal\Product-Micro-Service-Docker-ELK\database-product-service\src\test\resources
+2018-08-14 21:19:15,010 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-14 21:19:15,016 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-14 21:19:15,022 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-14 21:19:15,027 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-14 21:19:15,028 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aritnag\Documents\Portal\Product-Micro-Service-Docker-ELK\database-product-service\src\test\resources

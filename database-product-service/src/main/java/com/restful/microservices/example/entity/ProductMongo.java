@@ -11,6 +11,7 @@ public class ProductMongo {
 	private String id;
 	private String productName;
 	private String productType;
+	private String productDescription;
 	public String getId() {
 		return id;
 	}
@@ -28,5 +29,11 @@ public class ProductMongo {
 	}
 	public void setProductType(String productType) {
 		this.productType = productType;
+	}
+	public String getProductDescription() {
+		return productDescription;
+	}
+	public void setProductDescription(String productDescription) {
+		this.productDescription = productDescription;
 	}
 }
