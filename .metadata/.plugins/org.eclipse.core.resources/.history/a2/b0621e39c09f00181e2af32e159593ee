@@ -1,7 +1,8 @@
-spring.application.name=list-product-service
-server.port=8200
-eureka.client.serviceUrl.defaultZone=http://18.212.83.178:8761/eureka
+spring.application.name=add-product-service
+server.port=8300
+eureka.client.serviceUrl.defaultZone=http://18.210.200.8:8761/eureka
 eureka.instance.preferIpAddress=true
 spring.jpa.show-sql=true
 spring.h2.console.enabled=true
+
 database.product.service.url=http://DATABASE-PRODUCT-SERVICE/db/
