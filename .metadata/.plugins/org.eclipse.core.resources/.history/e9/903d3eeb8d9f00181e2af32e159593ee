@@ -1,0 +1,12 @@
+spring.application.name=database-product-service
+server.port=8000
+eureka.client.serviceUrl.defaultZone=http://34.195.62.202:8761/eureka
+eureka.instance.preferIpAddress=true
+#spring.jpa.show-sql=true
+#spring.h2.console.enabled=true
+spring.data.mongodb.uri= mongodb://34.195.62.202:27017
+spring.data.mongodb.database=product
+spring.data.jest.aws-region=us-east-1
+spring.data.jest.uri=https://search-microservice-cluster-zzfctkiahe5vfwhcv2sopp4dau.us-east-1.es.amazonaws.com/
+cloud.aws.region.static=us-east-1
+cloud.aws.stack.auto=false

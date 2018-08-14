@@ -22,7 +22,7 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
 		<spring-cloud.version>Finchley.SR1</spring-cloud.version>
-		<sonar.host.url>http://34.195.62.202:9001</sonar.host.url>
+		<sonar.host.url>http://18.210.200.8:9001</sonar.host.url>
 		<docker.image.prefix>springio</docker.image.prefix>
 	</properties>
 

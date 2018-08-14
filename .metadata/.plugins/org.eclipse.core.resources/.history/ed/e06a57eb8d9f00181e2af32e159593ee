@@ -1,0 +1,7 @@
+spring.application.name=remove-product-service
+server.port=8100
+eureka.client.serviceUrl.defaultZone=http://34.195.62.202:8761/eureka
+eureka.instance.preferIpAddress=true
+spring.jpa.show-sql=true
+spring.h2.console.enabled=true
+database.product.service.url=http://DATABASE-PRODUCT-SERVICE/db/

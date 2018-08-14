@@ -8,7 +8,7 @@ services:
     logging:
       driver: syslog
       options:
-        syslog-address: "tcp://34.195.62.202:5010"
+        syslog-address: "tcp://18.210.200.8:5010"
         syslog-format: "rfc3164"
         tag: "node-01"
     ports:

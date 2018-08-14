@@ -1,0 +1,104 @@
+2018-08-14 07:46:21,399 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-08-14 07:47:42,314 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-08-14 07:48:24,233 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.restful.microservices.example:add-product-service:0.0.1-SNAPSHOT @ C:\Users\aritnag\Documents\Portal\Product-Micro-Service-Docker-ELK\add-product-service\pom.xml.
+2018-08-14 07:48:28,605 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.restful.microservices.example:database-product-service:0.0.1-SNAPSHOT @ C:\Users\aritnag\Documents\Portal\Product-Micro-Service-Docker-ELK\database-product-service\pom.xml.
+2018-08-14 07:48:32,974 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.restful.microservices.example:list-product-service:0.0.1-SNAPSHOT @ C:\Users\aritnag\Documents\Portal\Product-Micro-Service-Docker-ELK\list-product-service\pom.xml.
+2018-08-14 07:48:36,210 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.restful.microservices.example:netflix-eureka-naming-server:0.0.1-SNAPSHOT @ C:\Users\aritnag\Documents\Portal\Product-Micro-Service-Docker-ELK\netflix-eureka-naming-server\pom.xml.
+2018-08-14 07:48:38,231 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.restful.microservices.example:netflix-eureka-zuul-api-gateway-server:0.0.1-SNAPSHOT @ C:\Users\aritnag\Documents\Portal\Product-Micro-Service-Docker-ELK\netflix-eureka-zuul-api-gateway-server\pom.xml.
+2018-08-14 07:48:41,460 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.restful.microservices.example:remove-product-service:0.0.1-SNAPSHOT @ C:\Users\aritnag\Documents\Portal\Product-Micro-Service-Docker-ELK\remove-product-service\pom.xml.
+2018-08-14 07:48:56,775 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /netflix-eureka-naming-server/src/main/java
+2018-08-14 07:48:56,776 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /netflix-eureka-naming-server/src/main/resources
+2018-08-14 07:48:56,777 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /netflix-eureka-naming-server/src/main/resources
+2018-08-14 07:48:56,778 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /netflix-eureka-naming-server/src/test/java
+2018-08-14 07:48:58,095 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /database-product-service/src/main/java
+2018-08-14 07:48:58,096 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /database-product-service/src/main/resources
+2018-08-14 07:48:58,096 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /database-product-service/src/main/resources
+2018-08-14 07:48:58,097 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /database-product-service/src/test/java
+2018-08-14 07:49:00,157 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /remove-product-service/src/main/java
+2018-08-14 07:49:00,158 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /remove-product-service/src/main/resources
+2018-08-14 07:49:00,159 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /remove-product-service/src/main/resources
+2018-08-14 07:49:00,160 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /remove-product-service/src/test/java
+2018-08-14 07:49:02,048 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /netflix-eureka-zuul-api-gateway-server/src/main/java
+2018-08-14 07:49:02,049 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /netflix-eureka-zuul-api-gateway-server/src/main/resources
+2018-08-14 07:49:02,050 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /netflix-eureka-zuul-api-gateway-server/src/main/resources
+2018-08-14 07:49:02,051 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /netflix-eureka-zuul-api-gateway-server/src/test/java
+2018-08-14 07:49:03,692 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /list-product-service/src/main/java
+2018-08-14 07:49:03,693 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /list-product-service/src/main/resources
+2018-08-14 07:49:03,694 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /list-product-service/src/main/resources
+2018-08-14 07:49:03,696 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /list-product-service/src/test/java
+2018-08-14 07:49:05,267 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /add-product-service/src/main/java
+2018-08-14 07:49:05,268 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /add-product-service/src/main/resources
+2018-08-14 07:49:05,269 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /add-product-service/src/main/resources
+2018-08-14 07:49:05,270 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /add-product-service/src/test/java
+2018-08-14 07:49:06,181 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 6 project(s) in 51 sec
+2018-08-14 07:49:22,442 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-14 07:49:22,451 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-14 07:49:22,478 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-14 07:49:22,489 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-14 07:49:22,490 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aritnag\Documents\Portal\Product-Micro-Service-Docker-ELK\add-product-service\src\test\resources
+2018-08-14 07:49:31,552 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-14 07:49:31,553 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-14 07:49:31,569 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-14 07:49:31,574 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-14 07:49:31,574 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aritnag\Documents\Portal\Product-Micro-Service-Docker-ELK\database-product-service\src\test\resources
+2018-08-14 07:49:34,579 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-14 07:49:34,580 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-14 07:49:34,583 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-14 07:49:34,587 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-14 07:49:34,589 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aritnag\Documents\Portal\Product-Micro-Service-Docker-ELK\list-product-service\src\test\resources
+2018-08-14 07:49:36,902 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-14 07:49:36,903 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-14 07:49:36,907 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-14 07:49:36,910 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-14 07:49:36,910 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aritnag\Documents\Portal\Product-Micro-Service-Docker-ELK\netflix-eureka-naming-server\src\test\resources
+2018-08-14 07:49:42,844 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-14 07:49:42,846 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-14 07:49:42,852 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-14 07:49:42,855 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-14 07:49:42,856 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aritnag\Documents\Portal\Product-Micro-Service-Docker-ELK\netflix-eureka-zuul-api-gateway-server\src\test\resources
+2018-08-14 07:49:47,700 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-14 07:49:47,702 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-14 07:49:47,708 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-14 07:49:47,711 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-14 07:49:47,711 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aritnag\Documents\Portal\Product-Micro-Service-Docker-ELK\remove-product-service\src\test\resources
+2018-08-14 07:49:52,920 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-14 07:49:52,926 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-14 07:49:52,933 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-14 07:49:52,962 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-14 07:49:52,963 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aritnag\Documents\Portal\Product-Micro-Service-Docker-ELK\database-product-service\src\test\resources
+2018-08-14 11:39:50,543 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-14 11:39:50,559 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-14 11:39:50,566 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-14 11:39:50,571 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-14 11:39:50,572 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aritnag\Documents\Portal\Product-Micro-Service-Docker-ELK\add-product-service\src\test\resources
+2018-08-14 12:17:10,098 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-14 12:17:10,100 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-14 12:17:10,100 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-14 12:17:10,103 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-14 12:17:10,103 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aritnag\Documents\Portal\Product-Micro-Service-Docker-ELK\add-product-service\src\test\resources
+2018-08-14 12:17:33,738 [Worker-107] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.restful.microservices.example:database-product-service:0.0.1-SNAPSHOT @ C:\Users\aritnag\Documents\Portal\Product-Micro-Service-Docker-ELK\database-product-service\pom.xml.
+2018-08-14 12:17:39,154 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-14 12:17:39,158 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-14 12:17:39,178 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-14 12:17:39,181 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-14 12:17:39,181 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aritnag\Documents\Portal\Product-Micro-Service-Docker-ELK\database-product-service\src\test\resources
+2018-08-14 12:17:42,028 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-14 12:17:42,029 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-14 12:17:42,037 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-14 12:17:42,043 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-14 12:17:42,044 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aritnag\Documents\Portal\Product-Micro-Service-Docker-ELK\list-product-service\src\test\resources
+2018-08-14 12:17:42,174 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-14 12:17:42,175 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-14 12:17:42,175 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-14 12:17:42,178 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-14 12:17:42,178 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aritnag\Documents\Portal\Product-Micro-Service-Docker-ELK\netflix-eureka-naming-server\src\test\resources
+2018-08-14 12:17:42,291 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-14 12:17:42,292 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-14 12:17:42,296 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-14 12:17:42,299 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-14 12:17:42,300 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aritnag\Documents\Portal\Product-Micro-Service-Docker-ELK\netflix-eureka-zuul-api-gateway-server\src\test\resources
+2018-08-14 12:17:42,383 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-14 12:17:42,384 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-14 12:17:42,388 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-14 12:17:42,391 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-14 12:17:42,391 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aritnag\Documents\Portal\Product-Micro-Service-Docker-ELK\remove-product-service\src\test\resources
